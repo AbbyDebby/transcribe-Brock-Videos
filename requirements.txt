@@ -12,3 +12,4 @@ black==24.10.0
 click==8.1.7
 mypy-extensions==1.0.0
 pathspec==0.12.1
+black==24.10.0[jupyter]
